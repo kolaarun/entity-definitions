@@ -1,5 +1,5 @@
 relationships:
-  - name: extInfraDockerContainerEXTService
+  - name: nrInfraDockerContainerEXTService
     version: "1"
     origins:
       - OpenTelemetry
